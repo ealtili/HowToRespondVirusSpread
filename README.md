@@ -46,7 +46,7 @@ Vaccines developed by taking viruses and weakening or killing them so that they 
 
 Similar to Anti-virus software companies who are developing signatures today many pharmaceutical companies working on developing a drug or vaccine for Coronavirus (COVID-19)
 
-## **Components, Symptoms and Lifecycle of the viruses?**
+## **Components, Symptoms and Lifecycle of the viruses**
 
 Typically, a computer virus has these three components:
 
@@ -58,7 +58,7 @@ There are 4 stages at the lifecycle of computer virus (As an analogy to biology)
 
 1. **Virus Entry (Dormant):** The virus has managed to access the target host. (Coronavirus gets into body)
 2. **Replication (Propagation)**: The virus starts propagating, that is multiplying and replicating itself. (Coronavirus starts infecting cells, replicating itself and propagates thru respiratory droplets)
-3. **Triggering** : The virus activated as a result of conditions or the events, so it starts performs the function that is intended. (the period between exposure to an infection and the appearance of the first symptoms like incubation period of coronavirus)
+3. **Triggering**: The virus activated as a result of conditions or the events, so it starts performs the function that is intended. (the period between exposure to an infection and the appearance of the first symptoms like incubation period of coronavirus)
 4. **Execution** : The virus gets to work where payload is released, and the end user will begin to notice problems such as deleted files, the system crashing or endless popups on the screen. (This is where infected person starts to see symptoms like cough, shortness of breath, fever and can lead to serious illnesses, like pneumonia or death) (this is where body fights with the virus)
 
 ## **How do we respond (Computer security incident response)?**
@@ -87,7 +87,7 @@ This is similar to guidelines of WHO, CDC, ministry of health authorities. All o
 - **STAY HOME, SOCIAL DISTANCE, PERSONAL AND FACILITY HYGIENE, DO NOT STOCKPILE, ASSIST ELDERLY PEOPLE FOR THEIR NEEDS etc.**
 - **QUARANTINE 14 DAYS IF YOU ARE TRAVELLING FROM ABROAD OR RISK AREA**
 - **QUARANTINE YOURSELF IF YOU HAVE ANY FEVER, COUGH OR SHORTNESS OF BREATH etc.**
-- **FIRST CALL YOUR PHYSICIAN OR EMERGENCY MEDICAL LINE IF YOU HAVE SYMPTOMS DON&#39;T GO TO MEDICAL FACILITIES BY YOUSELF LET THEM GIVE YOU THE GUIDELINES AND PICK YOU UP**
+- **FIRST CALL YOUR PHYSICIAN OR EMERGENCY MEDICAL LINE IF YOU HAVE SYMPTOMS DO NOT GO TO MEDICAL FACILITIES BY YOUSELF LET THEM GIVE YOU THE GUIDELINES AND PICK YOU UP**
 
 ### **Incident Response Plan**
 
@@ -100,20 +100,20 @@ This is similar to local health authorities and medical facilities produce their
  ![Incident Handling Guideline](https://www.researchgate.net/profile/Muhammad_Kiru/publication/330069340/figure/fig4/AS:805550992416769@1569069731725/Incident-response-plan-Computer-security-Incident-handling-guide-2012-Source-National.png)
 
 1. **Preparation** : Establishing and training an incident response team, acquiring necessary tools, resources and applying set of controls. (Establishing and training Medical teams, testing kits, restriction on public events, facilities etc.)
-2. **Detection &amp; Analysis** : Identifying and investigating suspicious activity to confirm a security incident, prioritizing the response based on impact and coordinating notification of the incident (testing, analysis and prioritizing patients, investigating and tracking people those patients contacted with and etc.)
-3. **Containment, Eradication &amp; Recovery** : Isolating affected systems to prevent escalation, limit impact, finding root cause of the incident, removing malware, affected systems and bad actors from the environment. Restoring systems and data when a threat no longer remains. (Isolating people or areas that are affected by Coronavirus, treatment at hospitals, etc.)
-4. **Post Incident Activity** : lessons learned analysis, its root cause and response, report opportunities to improve the incident response plan and future response efforts (published journals and cases that are share between medical professionals and countries.
+2. **Detection and Analysis** : Identifying and investigating suspicious activity to confirm a security incident, prioritizing the response based on impact and coordinating notification of the incident (testing, analysis and prioritizing patients, investigating and tracking people those patients contacted with and etc.)
+3. **Containment, Eradication and Recovery** : Isolating affected systems to prevent escalation, limit impact, finding root cause of the incident, removing malware, affected systems and bad actors from the environment. Restoring systems and data when a threat no longer remains. (Isolating people or areas that are affected by Coronavirus, treatment at hospitals, etc.)
+4. **Post Incident Activity** : lessons learned analysis, its root cause and response, report opportunities to improve the incident response plan and future response efforts (published journals and cases that are shared between medical professionals and countries)
 
 ### **End user security awareness**
 
-The end-user is the weakest link in the security chain and it is estimated that more than 90% of security incidents and breaches involve some kind of human error. We are the weakest link in this pandemic and virus spread from people to people.
+The end-user is the weakest link in the security chain and it is estimated that more than 90% of security incidents and breaches involve some kind of human error. We are the weakest link in this pandemic and virus spread from people to people. We should be following guidelines for coronavirus from health authorities.
 
 ### **Digital hygiene**
 
-Like end-user training, digital hygiene is a fundamental principle of information security. Similar with personal hygiene, it is about establishing simple routines to minimize the risks from cyber threats. Digital hygiene practices give users another layer of protection, reducing the risk that a vulnerable node will be affected and compromise other nodes or networks.
+Like end-user training, digital hygiene is a fundamental principle of information security. Similar with personal hygiene, it is about establishing simple routines to minimize the risks from cyber threats. Digital hygiene practices give users another layer of protection, reducing the risk that a vulnerable node will be affected and compromise other nodes or networks. Personal and facility hygiene practices give us another layer of protection, reducing the risk that a vulnerable one will be affected and compromise others.
 
 ### **Isolation**
 
-Containment is important before an incident overwhelms resources or increases damage. Most incidents require containment, so that is an important consideration early in the course of handling each incident. Containment provides time for developing a tailored remediation strategy.
+Containment is important before an incident overwhelms resources or increases damage. Most incidents require containment, so that is an important consideration early in the course of handling each incident. Containment provides time for developing a tailored remediation strategy. In order to slowdown virus spread and limit damages we must adhere social isolation and stay home.
 
 [![Pale Blue Dot](https://i.pinimg.com/originals/9a/1a/83/9a1a8365a1f60a6853ca6a7046918abe.jpg)](https://youtu.be/wupToqz1e2g)

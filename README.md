@@ -51,7 +51,7 @@ Similar to Anti-virus software companies who are developing signatures today man
 Typically, a computer virus has these three components:
 
 - **Infection Vector** : How the virus spread/propagate (Coronavirus through respiratory droplets, surface, close contact etc.)
-- **Trigger:  ** Events/Conditions that will start out the malicious function/payload (incubation of the coronavirus)
+- **Trigger:** Events/Conditions that will start out the malicious function/payload (incubation of the coronavirus)
 - **Payload** : Data/code performs the malicious actions (Coronavirus can lead to serious illnesses, like pneumonia or death)
 
 There are 4 stages at the lifecycle of computer virus (As an analogy to biology):

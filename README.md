@@ -1,4 +1,4 @@
-# **How to respond Malware/Virus spread?**
+# **How To Respond Malware/Virus Spread?**
 
 We are living through historical moments of humankind because of Coronavirus (COVID-19), which is pandemic now. My objective is to raise awareness of following guidelines of health authorities and point similarities about how do we respond virus spread in IT industry.
 
@@ -31,7 +31,7 @@ A **biological virus** is a microscopic infectious agent that replicates inside 
 
 If we can call signatures as the vaccines of computer viruses. There is a similarity between COVID-19 and Zero-day virus. Because there are no known drugs or vaccines for Coronavirus (COVID-19).
 
-## **What are signatures for Anti-virus software?**
+## **What Are Signatures For Anti-virus Software?**
 
 A computer virus signature is a unique pattern of code that is for detecting and identifying specific viruses. The antivirus software scans signatures and relies on signature database of known malicious codes. This is effective but cannot defend against zero-day malware/virus, if no samples obtained signatures generated and updates distributed. Signature based method is vulnerable to obfuscation and variety of other techniques. Therefore modern Anti-Virus software use more advanced methods (Heuristic: Similarity with related viruses, Real-time behavior: Anomalies of the behavior, Sandbox and Signature).
 
@@ -61,7 +61,7 @@ There are 4 stages at the lifecycle of computer virus (As an analogy to biology)
 3. **Triggering**: The virus activated as a result of conditions or the events, so it starts performs the function that is intended. (the period between exposure to an infection and the appearance of the first symptoms like incubation period of coronavirus)
 4. **Execution** : The virus gets to work where payload is released, and the end user will begin to notice problems such as deleted files, the system crashing or endless popups on the screen. (This is where infected person starts to see symptoms like cough, shortness of breath, fever and can lead to serious illnesses, like pneumonia or death) (this is where body fights with the virus)
 
-## **How do we respond (Computer security incident response)?**
+## **How Do We Respond (Information Security Incident Response)**
 
 Employee behavior can have big impact on information security in organizations. Similar people behavior can have big impact on virus spread in these days&#39; pandemic. Therefore, employees are important part of information security chain in the organization.  Similar as people we are important part of the global effort in the security and health of loved ones and other people (especially elderly people).
 
